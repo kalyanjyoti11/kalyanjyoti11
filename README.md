@@ -9,7 +9,7 @@ here are some quick things about me:
 
 • 🌱 I'm currently learning javascript.
 
-• ⚡ Fun fact: i leav things doing halfway.
+• ⚡ Fun fact: i leave things doing halfway.
 
 • 📫 How to reach me: [Twitter-@KJG](https://twitter.com/kalyanj71415025)
 
