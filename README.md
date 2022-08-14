@@ -4,9 +4,13 @@ Hi there 👋
 here are some quick things about me:
 
 • 🔭 I'm an aspiring full stack developer who loves learning new things.
+
 • 🕵️‍♀️ I like building project.
+
 • 🌱 I'm currently learning javascript.
+
 • ⚡ Fun fact: i leav things doing halfway.
+
 • 📫 How to reach me: [Twitter-@KJG](https://twitter.com/kalyanj71415025)
 
 Thanks for visiting my github profile.
