@@ -7,7 +7,7 @@ here are some quick things about me:
 
 • 🕵️‍♀️ I like building project.
 
-• 🌱 I'm currently learning javascript.
+• 🌱 I'm currently learning java and DSA.
 
 • ⚡ Fun fact: i leave things doing halfway.
 
